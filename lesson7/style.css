@@ -1,0 +1,12 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-image: url(/n1.jpg);
+padding: 15px;
+}
+.box:hover{
+    
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
