@@ -1,0 +1,23 @@
+header{
+    width: 100%;
+    height: 250px;
+    background: #262626;
+    nav{
+       width: 100%;
+       height: 200px;
+       background-image: url(/123.png);
+        ul{
+            display: flex;
+            // justify-content: space-between;
+            align-items: center;
+            li{
+                list-style: none;
+            margin-left: 50px;
+               color:rgb(131, 56, 6);
+               font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+               font-style:italic;
+
+            }
+        }
+    }
+}
